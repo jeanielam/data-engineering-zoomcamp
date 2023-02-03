@@ -1,0 +1,2 @@
+Encountered error: https://stackoverflow.com/questions/73830524/attributeerror-module-lib-has-no-attribute-x509-v-flag-cb-issuer-check
+- Fix was to remove python3-pip, reinstall and upgrade
