@@ -18,3 +18,4 @@ serving_dir
 cohorts/2023/data/
 cohorts/2023/*/data/
 cohorts/2023/*/*/data/
+week_3_*/extras/*.parquet
